@@ -1,0 +1,9 @@
+Question1: Correct Driving age. If a person is over 16 then return True else return False.
+
+#I do not remember the exact question or the method name but my answer is right
+del driving_age(age):
+
+  if(age < 16):
+      return False
+  else:
+      return True
